@@ -1,5 +1,5 @@
 const firstName = prompt('What is your first name?'); /*asking what is your name as a pop=up*/
-
+//hello world
 let uppercaseFirstLetter = firstName.charAt(0).toUpperCase() + firstName.slice(1); /*making the first letter of your name capital*/
 
 const stateId = prompt('What state are your from?'); /*creating a variable asking what state someone is from*/
